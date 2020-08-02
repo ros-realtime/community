@@ -1,19 +1,8 @@
-# {{NAME}} Working Group
+# ROS 2 Real-Time Working Group
 
-{{
-TEMPLATE: This repository acts as a template for individual Working Groups to start from.
-All information in double curly-braces must be replaced with details for the specific Working Group.
-NOTE: check the issue and pull request templates as well, under `.github` directory.
+This document defines the scope and governance of the ROS 2 Real-Time Working Group.
 
-This is a template repository.
-When starting a new working group, [use this template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) to create a new repository in the WG organization.
-}}
-
-This document defines the scope and governance of the Working Group (WG).
-
-{{Mission: The {{NAME}} Working Group's mission is to...}}
-
-{{Scope: the types of topics, tools, libraries, applications, documents, etc, that this working group focuses on. }}
+The Real-Time Working Group's mission is to advocate for and work on memory management, real-time pub/sub, real-time DDS, and tools that allow tracing, profiling and optimizing.
 
 ## Subprojects
 
@@ -24,6 +13,8 @@ Its meetings and membership are largely focused on the direction, design, and wo
 
 The following subprojects are owned by the Working Group:
 
+**TODO**
+
 {{
 
 * template-project
@@ -32,6 +23,10 @@ The following subprojects are owned by the Working Group:
     * link-to-repository
 
 }}
+
+#### Related Projects
+
+**TODO**
 
 ### Standards for subprojects
 
@@ -72,19 +67,23 @@ If the repositories of the subproject are under the WG's GitHub organization, th
 
 ## Governance
 
+See the [WG section of the ROS 2 Project Governance page](https://index.ros.org/doc/ros2/Governance/#working-groups-wgs).
+
 ### Meetings
 
-* Regular WG Meeting: {{time schedule for meetings}}
-  * {{when and where will meetings be announced}}
-  * {{what artifacts will be posted after the meetings, e.g. Minutes, Recordings}}
+* Regular WG Meeting: every other Tuesday at 9 AM Pacific time, see the [ROS Events calendar](https://calendar.google.com/calendar/embed?src=agf3kajirket8khktupm9go748%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+* To receive meeting invitations, join [ros-real-time-working-group-invites](https://groups.google.com/forum/#!forum/ros-real-time-working-group-invites)
+* Meetings are open to the public, and anyone is welcome to join
 
 ### Communication Channels
 
-{{How can members communicate with each other? Discourse, Discord, IRC, email list, etc.}}
+This working group uses Discourse: [wg-real-time](https://discourse.ros.org/tag/wg-real-time).
 
+<!--
 ### Backlog Management
 
 {{Is any project management software/site used to track work for this Working Group? How can new members discover the highest impact tasks they could take on? GitHub Projects, ZenHub, etc.}}
+-->
 
 ### Membership, Roles and Organization Management
 
