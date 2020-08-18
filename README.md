@@ -26,7 +26,7 @@ The following subprojects are owned by the Working Group:
 
 #### Related Projects
 
-**TODO**
+Related projects will be added in the future.
 
 ### Standards for subprojects
 
