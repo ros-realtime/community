@@ -71,7 +71,7 @@ See the [WG section of the ROS 2 Project Governance page](https://index.ros.org/
 
 ### Meetings
 
-* Regular WG Meeting: every other Tuesday at 9 AM Pacific time, see the [ROS Events calendar](https://calendar.google.com/calendar/embed?src=agf3kajirket8khktupm9go748%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+* Regular WG Meeting: every other Tuesday at 7 AM Pacific time, see the [ROS Events calendar](https://calendar.google.com/calendar/embed?src=agf3kajirket8khktupm9go748%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 * To receive meeting invitations, join [ros-real-time-working-group-invites](https://groups.google.com/forum/#!forum/ros-real-time-working-group-invites)
 * Meetings are open to the public, and anyone is welcome to join
 
