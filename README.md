@@ -11,18 +11,7 @@ Its meetings and membership are largely focused on the direction, design, and wo
 
 ### Subproject List
 
-The following subprojects are owned by the Working Group:
-
-**TODO**
-
-{{
-
-* template-project
-  * Description: Brief description of project. Remove this item and add new projects using this format.
-  * Repositories
-    * link-to-repository
-
-}}
+Subprojects will be added in the future.
 
 #### Related Projects
 
