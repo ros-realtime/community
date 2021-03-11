@@ -68,9 +68,11 @@ See the [WG section of the ROS 2 Project Governance page](https://index.ros.org/
 
 ### Communication Channels
 
-This working group uses Discourse: [wg-real-time](https://discourse.ros.org/tag/wg-real-time).
+- ROS discourse tag [wg-real-time](https://discourse.ros.org/tag/wg-real-time)
+- Chat in the [Real-time WG Room on Matrix](https://matrix.to/#/#ros-realtime:matrix.org?via=matrix.org)
 
 <!--
+
 ### Backlog Management
 
 {{Is any project management software/site used to track work for this Working Group? How can new members discover the highest impact tasks they could take on? GitHub Projects, ZenHub, etc.}}
