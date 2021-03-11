@@ -11,11 +11,62 @@ Its meetings and membership are largely focused on the direction, design, and wo
 
 ### Subproject List
 
-Subprojects will be added in the future.
+The following subprojects are owned by Real-Time Working Group:
+
+- rt-kernel-docker-builder
+  - Description:  Build and setup RT kernel for the ROS2 testing
+  - Repositories
+    - https://github.com/ros-realtime/rt-kernel-docker-builder
 
 #### Related Projects
 
-Related projects will be added in the future.
+Performance evaluation
+
+- performance_test
+  - Description: Tool to test the performance of pub/sub based communication frameworks
+  - Repositories
+    - https://gitlab.com/ApexAI/performance_test
+- ros2-performance
+  - Description: iRobot ROS2 performance evaluation framework
+  - Repositories
+    - https://github.com/irobot-ros/ros2-performance
+- TwoWaysMeasurement
+  - Description: Tool to test the real-time performance in a ping-pong scenario
+  - https://github.com/y-okumura-isp/TwoWaysMeasurement
+- ros2_timer_latency_measurement
+  - Description: Tool to measure the accuracy of the ROS 2 timer
+  - https://github.com/hsgwa/ros2_timer_latency_measurement
+
+Real-time utilities
+
+- realtime_support
+  - Description: Minimal real-time testing utility for measuring jitter and latency
+    - rttest: rttest is a minimal tool for instrumenting and running tests for synchronous real-time systems
+    - tlsf_cpp: C++ stdlib-compatible wrapper around tlsf allocator and ROS2 examples
+  - Repositories
+    - https://github.com/ros2/realtime_support
+- ros2_tracing
+  - Description: Tracing tools for ROS 2
+  - Repositories
+
+    - https://gitlab.com/ros-tracing/ros2_tracing
+    - https://gitlab.com/ros-tracing/tracetools_analysis
+
+Real-time demos
+
+- pendulum_control
+  - Description: Real-time inverted pendulum control demo
+  - Repositories
+    - https://github.com/ros2/demos/tree/master/pendulum_control
+    - https://docs.ros.org/en/foxy/Tutorials/Real-Time-Programming.html
+- pendulum
+  - Description: Inverted pendulum demo inspired by pendulum_control
+  - Repositories
+    - https://github.com/ros2-realtime-demo/pendulum
+- e2e_demo
+  - Description: End-to-end latency demo
+  - Repositories
+    - https://github.com/hsgwa/e2e_demo
 
 ### Standards for subprojects
 
