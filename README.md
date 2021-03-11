@@ -32,10 +32,12 @@ Performance evaluation
     - https://github.com/irobot-ros/ros2-performance
 - TwoWaysMeasurement
   - Description: Tool to test the real-time performance in a ping-pong scenario
-  - https://github.com/y-okumura-isp/TwoWaysMeasurement
+  - Repositories
+    - https://github.com/y-okumura-isp/TwoWaysMeasurement
 - ros2_timer_latency_measurement
   - Description: Tool to measure the accuracy of the ROS 2 timer
-  - https://github.com/hsgwa/ros2_timer_latency_measurement
+  - Repositories
+    - https://github.com/hsgwa/ros2_timer_latency_measurement
 
 Real-time utilities
 
@@ -48,7 +50,6 @@ Real-time utilities
 - ros2_tracing
   - Description: Tracing tools for ROS 2
   - Repositories
-
     - https://gitlab.com/ros-tracing/ros2_tracing
     - https://gitlab.com/ros-tracing/tracetools_analysis
 
