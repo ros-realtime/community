@@ -52,6 +52,18 @@ Real-time utilities
   - Repositories
     - https://gitlab.com/ros-tracing/ros2_tracing
     - https://gitlab.com/ros-tracing/tracetools_analysis
+- osrf_testing_tools_cpp
+  - Description: This repository contains testing tools for C++, and is used in OSRF projects. The memory_tools API lets you intercept calls to dynamic memory calls like malloc and free, and provides some convenience functions for differentiating between expected and unexpected calls to dynamic memory functions.
+  - Repositories:
+    - https://github.com/osrf/osrf_testing_tools_cpp
+- apex_test_tools
+  - Description: The package Apex.OS Test Tools contains test helpers
+  - Repositories:
+    - https://gitlab.com/ApexAI/apex_test_tools
+- apex_containers
+  - Description: A collection of C++ containers suitable for real time systems
+  - Repositories:
+    - https://gitlab.com/ApexAI/apex_containers
 
 Real-time demos
 
