@@ -30,6 +30,10 @@ Performance measurements
   - Description: iRobot ROS2 performance evaluation framework
   - Repositories
     - https://github.com/irobot-ros/ros2-performance
+- buildfarm_perf_tests
+  - Description: Performance tests which run regularly on the ROS 2 buildfarm
+  - Repositories
+    - https://github.com/ros2/buildfarm_perf_tests   
 - TwoWaysMeasurement
   - Description: Tool to test the real-time performance in a ping-pong scenario
   - Repositories
