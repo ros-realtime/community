@@ -20,7 +20,7 @@ The following subprojects are owned by Real-Time Working Group:
 
 #### Related Projects
 
-Performance evaluation
+Performance measurements
 
 - performance_test
   - Description: Tool to test the performance of pub/sub based communication frameworks
