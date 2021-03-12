@@ -68,6 +68,10 @@ Real-time utilities
   - Description: A collection of C++ containers suitable for real time systems
   - Repositories:
     - https://gitlab.com/ApexAI/apex_containers
+- realtime_tools
+  - Description: Contains a set of tools that can be used from a hard realtime thread, without breaking the realtime behavior.
+  - Repositories:
+    - https://github.com/ros-controls/realtime_tools/tree/foxy-devel
 
 Real-time demos
 
