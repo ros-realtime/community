@@ -27,7 +27,7 @@ Performance measurements
   - Repositories
     - https://gitlab.com/ApexAI/performance_test
 - ros2-performance
-  - Description: iRobot ROS2 performance evaluation framework
+  - Description: iRobot ROS 2 performance evaluation framework
   - Repositories
     - https://github.com/irobot-ros/ros2-performance
 - buildfarm_perf_tests
@@ -42,6 +42,19 @@ Performance measurements
   - Description: Tool to measure the accuracy of the ROS 2 timer
   - Repositories
     - https://github.com/hsgwa/ros2_timer_latency_measurement
+- ros2_benchmarking
+  - Description: Tool to compare ROS and ROS 2 communications.
+  - Repositories
+    - https://github.com/piappl/ros2_benchmarking
+- adlink_ros2_tools
+  - Description: ADLINK's performance evaluation tool. Centered around Opensplice DDS implementation.
+  - Repositories
+    - https://github.com/Adlink-ROS/adlink_ros2_tools
+- ros2_latency_evaluation
+  - Description: Forked from ros2-performance. Tool for evaluating ROS 2 latencies.
+  - Repositories
+    - https://github.com/Barkhausen-Institut/ros2_latency_evaluation
+
 
 Real-time utilities
 
