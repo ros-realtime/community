@@ -4,7 +4,7 @@ This document defines the scope and governance of the ROS 2 Real-Time Working Gr
 
 The Real-Time Working Group's mission is to advocate for and work on memory management, real-time pub/sub, real-time DDS, and tools that allow tracing, profiling and optimizing.
 
-The ROS 2 Real-Time Working Group documentation is hosted at https://real-time-working-group.readthedocs.io/en/latest/.
+The ROS 2 Real-Time Working Group documentation is hosted at https://ros-realtime.github.io/.
 
 ### Meetings
 
