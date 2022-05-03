@@ -29,5 +29,5 @@ See the [governance](governance.md) document for more information.
 
 ### How to Contribute
 
-See the [contributing](https://real-time-working-group.readthedocs.io/en/latest/Contributing/how_to_contribute.html) document for more information.
+See the [contributing](https://ros-realtime.github.io/Contributing/how_to_contribute.html) document for more information.
 
