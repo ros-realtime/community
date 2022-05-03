@@ -21,7 +21,7 @@ The ROS 2 Real-Time Working Group documentation is hosted at https://ros-realtim
 
 ### Roadmap
 
-See the [roadmap](https://real-time-working-group.readthedocs.io/en/latest/Roadmap/Roadmap.html) document and the [github roadmap board](https://github.com/orgs/ros-realtime/projects/2).
+See the [roadmap](https://ros-realtime.github.io/Roadmap/Roadmap.html) document and the [github roadmap board](https://github.com/orgs/ros-realtime/projects/5).
 
 ### Governance
 
