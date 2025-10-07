@@ -8,7 +8,7 @@ The ROS 2 Real-Time Working Group documentation is hosted at https://ros-realtim
 
 ### Meetings
 
-* Regular WG Meeting: every other Monday at 8 AM PST / 5 PM CEST, see the ~~[OSRF community-organised events calendar](https://calendar.google.com/calendar/u/0/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0@group.calendar.google.com&ctz=CET)~~ [ROS 2 Real-time Working Group Meeting](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NmlzbjhrcjcwZmxwMjhwN2g0ZWFvbm5idGdfMjAyNTEwMDZUMTUwMDAwWiBhbmRyZWkua2hvbG9kbnlpQG0&tmsrc=andrei.kholodnyi%40gmail.com&scp=ALL)
+* Regular WG Meeting: every other Monday at 8 AM PST / 5 PM CEST, see the ~~[OSRF community-organised events calendar](https://calendar.google.com/calendar/u/0/embed?src=c_3fc5c4d6ece9d80d49f136c1dcd54d7f44e1acefdbe87228c92ff268e85e2ea0@group.calendar.google.com&ctz=CET)~~ [ROS 2 Real-time Working Group Meeting](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWg4OW1mNXBoZTZzZTl0NDJ0N2toNjd1ZXZfMjAyNTEwMDZUMTUwMDAwWiBhbmRyZWkua2hvbG9kbnlpQG0&tmsrc=andrei.kholodnyi%40gmail.com&scp=ALL)
 * To receive meeting invitations, join [ros-real-time-working-group-invites](https://groups.google.com/forum/#!forum/ros-real-time-working-group-invites)
 * Meeting notes are kept under [ROS 2 Real-time Working Group Agenda](https://docs.google.com/document/d/1zBKwDUDeWvJNyCvjzYriaZQoZO2VYGWe1uxw5Xxn5cY/edit?ts=5ec9aabe#heading=h.rwvriogv081)
 * Meetings are recorded and available in [ROS 2 Real-time Working Group Agenda](https://docs.google.com/document/d/1zBKwDUDeWvJNyCvjzYriaZQoZO2VYGWe1uxw5Xxn5cY/edit?ts=5ec9aabe#heading=h.rwvriogv081).
